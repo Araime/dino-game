@@ -17,7 +17,9 @@
 Написать редактор уровней для ускорения разработки;  
 
 
-<video src="example.mp4"></video>
+
+https://github.com/Araime/dino-game/assets/82653875/83b534b6-736a-4b8f-9d47-fabd35ad7e26
+
 
 ## Установка
 
