@@ -23,7 +23,7 @@ https://github.com/Araime/dino-game/assets/82653875/83b534b6-736a-4b8f-9d47-fabd
 ### Скачать
 
 Python3 должен быть уже установлен.
-[Скачать](https://github.com/Araime/alarm-clock/archive/master.zip) этот 
+[Скачать](https://github.com/Araime/dino-game/archive/master.zip) этот 
 репозиторий себе на компьютер.
 
 Рекомендуется использовать [virtualenv/venv](https://docs.python.org/3/library/venv.html)
